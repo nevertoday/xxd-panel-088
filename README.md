@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 088
+# 🦁 XXD Panel 088｜文字造型诗
 
 ### 让文字本身长成一幅实验性图像
 

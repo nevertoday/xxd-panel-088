@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 088
+# 🦁 XXD Panel 088｜문자 조형 시
 
 ### 언어 자체를 실험적 이미지로 성장시킵니다
 

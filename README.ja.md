@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 088
+# 🦁 XXD Panel 088｜文字造形の詩
 
 ### 言葉そのものを実験的なイメージへ育てる
 

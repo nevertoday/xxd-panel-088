@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 088
+# 🦁 XXD Panel 088｜Typographic Form Poem
 
 ### Make language itself grow into an experimental image
 
