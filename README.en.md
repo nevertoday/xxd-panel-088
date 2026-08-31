@@ -14,29 +14,36 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 088 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 088 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
 
 Complete outlines reduce the subject to ordinary illustration, while word clouds leave random noise; neither makes language carry the image structure.
 
-**Panel 088** uses words, letters, characters, numbers, punctuation, text fragments, and dots as shape-making material. From a distance the source subject reads clearly; up close its contour, shadow, weight, and texture reveal themselves as typography.
+**Panel 088** turns whole words, letters, Chinese characters, numerals, punctuation, text fragments, and dot matrices into shape-making material. From a distance the source subject reads clearly; up close its contour, dark areas, weight, and texture reveal themselves as typography shaped through density, scale, direction, rotation, spacing, and overlap.
 
 ### Best for
 
-- making type become the subject's skeleton, contour, shadow, and texture rather than an added title;
-- deconstructed composition through density, scale, direction, rotation, spacing, overlap, and interruption;
-- visual poetry that prioritises form without collapsing into random character noise;
+- making readable words, individual characters, punctuation, and dots become the subject rather than an added title;
+- deconstructed composition that clusters type into shadow, opens it into air, and keeps the defining outer contour clear;
+- visual poetry ordered by density gradients, positive and negative form, directional tension, and extensive whitespace rather than random noise;
 - top-bottom, left-right, design-only, multi-ratio, wallpaper, and directory-batch delivery.
 
 ### Quick start
@@ -59,8 +66,8 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | What you need to know | What this style gives you |
 |---|---|
 | **What you get** | An experimental poster that reads as a subject from afar and a typographic system up close |
-| **Recognisable signature** | Clear contour, typographic density gradients, rotated fragments, dotted structures, and active whitespace |
-| **How it respects the source** | Wording grows from identity, action, environment, memory, and metaphor, then carries contour, shadow, and texture |
+| **Recognisable signature** | Clear outer contour, typographic density gradients, rotated and broken characters, dotted structures, and active whitespace |
+| **How it respects the source** | Wording grows from the subject's identity, action, environment, and metaphor, then carries contour, skeleton, shadow, and texture |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
 
