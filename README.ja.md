@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 088 プロジェクトバナー" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 088｜文字造形の詩
