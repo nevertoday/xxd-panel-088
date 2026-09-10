@@ -47,6 +47,15 @@ Complete outlines reduce the subject to ordinary illustration, while word clouds
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -65,22 +74,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Wording grows from the subject's identity, action, environment, and metaphor, then carries contour, skeleton, shadow, and texture |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-analyse subject, contour, structure, pose, and narrative relation → derive meaningful words, characters, punctuation, and dots → rebuild the outer contour through typographic density, scale, direction, rotation, spacing, and overlap → form dark weight with dense type and light air with sparse type → use dotted or radial character structures for focal details → release fragments into active whitespace
-```
-
-## Recognisable finished traits
-
-- Type is not an added caption: it becomes skeleton, contour, shadow, and texture; visual form leads without turning into random character noise.
-- Keep the defining outer contour clear while internal type may cluster, spread, rotate, invert, break, or pause as a single character.
-- Use concentric dot fields, radial wording, or circular character arrangements for eyes, lights, wheels, flowers, windows, suns, and other centred structures.
-- Build colour from dark typographic ink, one or two source-derived accents, and an extremely pale near-white ground.
-- Avoid traditional ASCII art, word clouds, random code, cyber glitch, fully outlined illustration, commercial type posters, and template layouts.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-088-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
