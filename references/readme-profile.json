@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 088｜Typographic Form Poem: rebuilds the subject, outline and structure of a photo entirely out of type — whole words, letters, Chinese characters, numbers, punctuation, text fragments and dot patterns — so it reads as the subject from afar and as language up close; a clear outer contour holds a deconstructed interior where dense text forms shadow and weight, widely spaced text forms air and light, with dotted contours and concentric or radial text for round centres; dark text ink plus one or two brightened accent colours from the photo on a near-white ground, with large whitespace, in thin, rational, experimentally cut modern type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-088 or asks for type-as-image, experimental typography portrait, calligram or word-shaped poster art from a photo.",
+  "short_description": "文字造型诗：用单词、字母、汉字、标点和点阵拼出照片主体，远看是图，近看是字",
+  "zh-CN": {
+    "name": "文字造型诗",
+    "tagline": "用文字、标点和点阵把照片里的主体拼出来，远看是图，近看全是字。",
+    "look": "画面里没有传统线稿，主体完全由完整单词、字母、汉字、数字、标点、碎片文字和点阵拼成，远看认得出是谁，凑近才发现全是字。外轮廓保持清晰，内部是解构式排版：文字挤密的地方成了暗部和重量，拉开字距的地方成了亮部和空气，有的竖排、倒置、旋转或断开。眼睛、车轮、灯、花心这类圆形结构会用同心圆点阵或放射状文字强调。颜色是深色文字墨色加一两种从照片提亮的强调色，底子接近白色，外围只散着几片碎字和点，留白很多。字体纤细、理性，带一点实验性的切割和不规则字距。",
+    "traits": [
+      "文字即图像",
+      "解构排版",
+      "点阵轮廓",
+      "文字密度梯度",
+      "视觉诗",
+      "深色文字墨色与极浅背景"
+    ],
+    "good": [
+      "外轮廓鲜明、一眼可认的主体：人物侧脸、一只猫、一辆自行车、一棵树",
+      "带圆形或中心结构的物件：向日葵、汽车轮子、路灯、钟表",
+      "能引出词语和情绪的照片：海边、城市地标、演奏乐器的人"
+    ],
+    "poor": [
+      "轮廓不清、靠色彩和氛围成立的照片：雾景、夕阳光斑、抽象色块",
+      "主体很多、彼此重叠的场景，用文字拼不出清楚轮廓",
+      "想要传统 ASCII 字符画、普通文字云、赛博故障风或清楚可读长文的需求"
+    ]
+  },
+  "en": {
+    "name": "Typographic Form Poem",
+    "tagline": "Builds the subject of your photo out of words, punctuation and dots: an image from afar, all type up close.",
+    "look": "There is no conventional line drawing: the subject is made entirely of whole words, letters, Chinese characters, numbers, punctuation, text fragments and dot patterns, recognisable from a distance and revealed as type up close. The outer contour stays clear while the inside is set in a deconstructed way: packed text becomes shadow and weight, widely spaced text becomes light and air, and some lines run vertically, upside down, rotated or broken. Round centres such as eyes, wheels, lamps or flower centres get concentric dot rings or radiating text. Colour is dark text ink plus one or two brightened accents from the photo on a near-white ground, with only stray fragments and dots at the edges and lots of empty space. The type is thin and rational, with some experimental cuts and irregular spacing.",
+    "traits": [
+      "Type as image",
+      "Deconstructed layout",
+      "Dotted contours",
+      "Text-density gradient",
+      "Visual poetry",
+      "Dark ink on near-white"
+    ],
+    "good": [
+      "Subjects with a strong, recognisable outline: a face in profile, a cat, a bicycle, a tree",
+      "Objects with round or central structures: a sunflower, a car wheel, a street lamp, a clock",
+      "Photos that suggest words and feelings: a seaside, a city landmark, someone playing an instrument"
+    ],
+    "poor": [
+      "Photos with vague outlines that rely on colour and mood: fog, sunset bokeh, abstract colour fields",
+      "Scenes with many overlapping subjects, where text cannot form a clear outline",
+      "Requests for classic ASCII art, an ordinary word cloud, cyber glitch art or long, fully readable text"
+    ]
+  },
+  "ja": {
+    "name": "文字造形の詩",
+    "tagline": "文字、句読点、点で写真の主役を組み上げます。遠くからは絵、近づけば全部が文字です。",
+    "look": "ふつうの線画はなく、主役はまるごと単語、アルファベット、漢字、数字、句読点、文字の断片、点のパターンで組まれ、遠くからは何かわかり、近づくと文字だと気づきます。外側の輪郭ははっきり保ち、内側は解体的な組版です。文字が詰まった所は影と重みに、字間を開けた所は光と空気になり、縦組み、逆さ、回転、途切れた行もあります。目、車輪、灯り、花芯のような丸い中心には、同心円の点や放射状の文字が使われます。色は濃い文字のインクに、写真から明るく引き上げたアクセント色を一、二色、地はほぼ白で、外側には文字の切れ端や点が少し散るだけで余白は広くとります。書体は細く理知的で、実験的な切れ込みと不揃いな字間があります。",
+    "traits": [
+      "文字がそのまま絵",
+      "解体的な組版",
+      "点の輪郭",
+      "文字密度のグラデーション",
+      "視覚詩",
+      "濃い文字色とごく淡い地"
+    ],
+    "good": [
+      "輪郭が強くひと目でわかる主役：横顔、猫、自転車、一本の木",
+      "丸い形や中心のある物：ひまわり、車のホイール、街灯、時計",
+      "言葉や気持ちを引き出せる写真：海辺、街のランドマーク、楽器を弾く人"
+    ],
+    "poor": [
+      "輪郭が曖昧で色や雰囲気で見せる写真：霧の風景、夕日の玉ボケ、抽象的な色面",
+      "主役が多く重なり合う場面（文字ではっきりした輪郭をつくれません）",
+      "昔ながらの ASCII アート、ふつうのワードクラウド、サイバーなグリッチ、読みやすい長文を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "문자 조형 시",
+    "tagline": "글자와 문장부호, 점으로 사진 속 주인공을 짜 맞춥니다. 멀리서는 그림, 가까이서는 전부 글자입니다.",
+    "look": "일반적인 선화는 없고, 주인공은 온전한 단어, 알파벳, 한자, 숫자, 문장부호, 글자 조각, 점 패턴으로만 만들어져 멀리서는 무엇인지 알아보고 가까이 가면 글자라는 것을 알게 됩니다. 바깥 윤곽은 또렷하게 두고 안쪽은 해체적으로 조판합니다. 글자가 빽빽한 곳은 그림자와 무게가, 자간을 벌린 곳은 빛과 공기가 되며, 세로쓰기, 뒤집힘, 회전, 끊긴 줄도 있습니다. 눈, 바퀴, 등불, 꽃술 같은 둥근 중심에는 동심원 점이나 방사형 글자가 쓰입니다. 색은 짙은 글자 먹색에 사진에서 밝게 끌어올린 강조색 한두 가지, 바탕은 거의 흰색이며, 바깥에는 글자 조각과 점이 조금 흩어질 뿐 여백이 넓습니다. 서체는 가늘고 이성적이며 실험적인 절단과 불규칙한 자간이 있습니다.",
+    "traits": [
+      "글자가 곧 이미지",
+      "해체적 조판",
+      "점 윤곽",
+      "글자 밀도 그러데이션",
+      "시각 시",
+      "짙은 글자색과 아주 연한 바탕"
+    ],
+    "good": [
+      "윤곽이 강해 한눈에 알아보는 주인공: 옆얼굴, 고양이, 자전거, 나무 한 그루",
+      "둥근 형태나 중심이 있는 물건: 해바라기, 자동차 바퀴, 가로등, 시계",
+      "단어와 감정을 끌어낼 수 있는 사진: 바닷가, 도시 랜드마크, 악기를 연주하는 사람"
+    ],
+    "poor": [
+      "윤곽이 흐리고 색과 분위기로 보여 주는 사진: 안개 풍경, 노을 보케, 추상 색면",
+      "주인공이 많고 겹치는 장면(글자로 분명한 윤곽을 만들 수 없습니다)",
+      "전통적인 ASCII 아트, 평범한 워드 클라우드, 사이버 글리치, 잘 읽히는 긴 글을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "قصيدة تشكيل الحروف",
+    "tagline": "يبني العنصر الرئيسي في صورتك من الكلمات وعلامات الترقيم والنقاط: صورة من بعيد، وحروف كلها عن قرب.",
+    "look": "لا يوجد رسم خطي تقليدي، بل يتكوّن العنصر كله من كلمات كاملة وحروف لاتينية وحروف صينية وأرقام وعلامات ترقيم وشذرات نصية وأنماط نقطية، فيُعرف من بعيد ويتكشّف نصاً عن قرب. يبقى المحيط الخارجي واضحاً، ويُصفّ الداخل بطريقة تفكيكية: النص المكتظ يصير ظلاً وثقلاً، والنص المتباعد يصير ضوءاً وهواءً، وبعض الأسطر عمودية أو مقلوبة أو مدوّرة أو مكسورة. وتُبرز المراكز المستديرة كالعيون والعجلات والمصابيح وقلوب الزهور بحلقات نقطية متحدة المركز أو نص شعاعي. اللون حبر داكن للنص مع لون أو لونين مميزين من الصورة بعد رفع إشراقهما، على أرضية قريبة من الأبيض، ولا يتناثر على الأطراف إلا شذرات ونقاط قليلة مع فراغ كثير. والحرف رفيع عقلاني، فيه قطع تجريبي وتباعد غير منتظم.",
+    "traits": [
+      "الحرف صورةً",
+      "تنضيد تفكيكي",
+      "محيطات نقطية",
+      "تدرج كثافة النص",
+      "شعر بصري",
+      "حبر داكن على أرضية فاتحة جداً"
+    ],
+    "good": [
+      "عناصر ذات محيط قوي يُعرف فوراً: وجه من الجانب، قطة، دراجة، شجرة",
+      "أشياء فيها بنى مستديرة أو مركزية: عباد الشمس، عجلة سيارة، عمود إنارة، ساعة",
+      "صور تستدعي كلمات ومشاعر: شاطئ، معلم مديني، شخص يعزف على آلة"
+    ],
+    "poor": [
+      "صور بمحيطات مبهمة تعتمد على اللون والأجواء: الضباب، أضواء الغروب الضبابية، مساحات لونية مجردة",
+      "مشاهد بعناصر كثيرة متداخلة، لا يستطيع النص أن يرسم لها محيطاً واضحاً",
+      "طلب فن ASCII التقليدي أو سحابة كلمات عادية أو فن الخلل السيبراني أو نص طويل مقروء بالكامل"
+    ]
+  }
+}

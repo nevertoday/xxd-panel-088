@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-088
-description: "Create XXD Panel 088 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-088 or requests the exact Panel 088 style."
+description: "XXD Panel 088｜Typographic Form Poem: rebuilds the subject, outline and structure of a photo entirely out of type — whole words, letters, Chinese characters, numbers, punctuation, text fragments and dot patterns — so it reads as the subject from afar and as language up close; a clear outer contour holds a deconstructed interior where dense text forms shadow and weight, widely spaced text forms air and light, with dotted contours and concentric or radial text for round centres; dark text ink plus one or two brightened accent colours from the photo on a near-white ground, with large whitespace, in thin, rational, experimentally cut modern type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-088 or asks for type-as-image, experimental typography portrait, calligram or word-shaped poster art from a photo."
 ---
 
 # XXD Panel 088
